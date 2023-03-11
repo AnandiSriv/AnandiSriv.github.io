@@ -1,4 +1,4 @@
-# SrishtiSarkhel.github.io• 
+# AnandiSrivastava.github.io• 
 
 This website is a portfolio/resume website which have a in-depth insight of my professional details such as skills, education, experience and qualification.
 
@@ -16,4 +16,4 @@ This website is a portfolio/resume website which have a in-depth insight of my p
 
 • Please view the project on desktop or laptop for best viewing experience.
 
-Visit my portfolio page using this link: https://srishtisarkhel.github.io/
+Visit my portfolio page using this link: https://AnandiSrivastava.github.io/
